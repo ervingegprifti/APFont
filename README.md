@@ -29,7 +29,10 @@ Pronounced as (ə pi fɑnt)
 | ![sort_asc_o](Icons/png/sort_asc_o.png) | sort_asc_o | \&#xe92a; | ![sort_asc_s](Icons/png/sort_asc_s.png) | sort_asc_s | \&#xe92b; |
 | ![sort_desc_o](Icons/png/sort_desc_o.png) | sort_desc_o | \&#xe92c; | ![sort_desc_s](Icons/png/sort_desc_s.png) | sort_desc_s | \&#xe92d; |
 | ![theme_o](Icons/png/theme_o.png) | theme_o | \&#xe92e; | ![theme_s](Icons/png/theme_s.png) | theme_s | \&#xe92f; |
-| ![paste_o](Icons/png/paste_o.png) | paste_o | \&#xe930; | ![paste_s](Icons/png/paste_s.png) | paste_s | \&#xe930; |
-| ![key_o](Icons/png/key_o.png) | key_o | \&#xe931; | ![key_s](Icons/png/key_s.png) | key_s | \&#xe932; |
-                                                                                   
+| ![paste_o](Icons/png/paste_o.png) | paste_o | \&#xe930; | ![paste_s](Icons/png/paste_s.png) | paste_s | \&#xe931; |
+| ![key_o](Icons/png/key_o.png) | key_o | \&#xe932; | ![key_s](Icons/png/key_s.png) | key_s | \&#xe933; |
+| ![paperclip_o](Icons/png/paperclip_o.png) | paperclip_o | \&#xe934; | ![paperclip_s](Icons/png/paperclip_s.png) | paperclip_s | \&#xe935; |
+| ![paperclip_angle_o](Icons/png/paperclip_angle_o.png) | paperclip_angle_o | \&#xe936; | ![paperclip_angle_s](Icons/png/paperclip_angle_s.png) | paperclip_angle_s | \&#xe937; |
+| ![paperclip_half_o](Icons/png/paperclip_half_o.png) | paperclip_half_o | \&#xe938; | ![paperclip_half_s](Icons/png/paperclip_half_s.png) | paperclip_half_s | \&#xe939; |
+                                
 APFont was created using the free version of <b>[IcoMoon](https://icomoon.io)</b> generator. You can use any icon to font generator you like.
