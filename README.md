@@ -34,5 +34,7 @@ Pronounced as (ə pi fɑnt)
 | ![paperclip_o](Icons/png/paperclip_o.png) | paperclip_o | \&#xe934; | ![paperclip_s](Icons/png/paperclip_s.png) | paperclip_s | \&#xe935; |
 | ![paperclip_angle_o](Icons/png/paperclip_angle_o.png) | paperclip_angle_o | \&#xe936; | ![paperclip_angle_s](Icons/png/paperclip_angle_s.png) | paperclip_angle_s | \&#xe937; |
 | ![paperclip_half_o](Icons/png/paperclip_half_o.png) | paperclip_half_o | \&#xe938; | ![paperclip_half_s](Icons/png/paperclip_half_s.png) | paperclip_half_s | \&#xe939; |
+| ![circle_o](Icons/png/circle_o.png) | circle_o | \&#xe93a; | ![circle_s](Icons/png/circle_s.png) | circle_s | \&#xe93b; |
+| ![circles_o](Icons/png/circles_o.png) | circles_o | \&#xe93c; | ![circles_s](Icons/png/circles_s.png) | circles_s | \&#xe93d; |
                                 
 APFont was created using the free version of <b>[IcoMoon](https://icomoon.io)</b> generator. You can use any icon to font generator you like.
