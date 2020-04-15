@@ -36,5 +36,7 @@ Pronounced as (ə pi fɑnt)
 | ![paperclip-half-o](Icons/png/paperclip-half-o.png) | paperclip-half-o | \&#xe938; | ![paperclip-half-s](Icons/png/paperclip-half-s.png) | paperclip-half-s | \&#xe939; |
 | ![circle-o](Icons/png/circle-o.png) | circle-o | \&#xe93a; | ![circle-s](Icons/png/circle-s.png) | circle-s | \&#xe93b; |
 | ![circles-o](Icons/png/circles-o.png) | circles-o | \&#xe93c; | ![circles-s](Icons/png/circles-s.png) | circles-s | \&#xe93d; |
+| ![grid-o](Icons/png/grid-o.png) | grid-o | \&#xe93e; | ![grid-s](Icons/png/grid-s.png) | grid-s | \&#xe93f; |
+| ![dialpad-o](Icons/png/dialpad-o.png) | dialpad-o | \&#xe940; | ![dialpad-s](Icons/png/dialpad-s.png) | dialpad-s | \&#xe941; |
                                 
 APFont was created using the free version of <b>[IcoMoon](https://icomoon.io)</b> generator. You can use any icon to font generator you like.
