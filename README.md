@@ -38,5 +38,6 @@ Pronounced as (ə pi fɑnt)
 | ![circles-o](Icons/png/circles-o.png) | circles-o | \&#xe93c; | ![circles-s](Icons/png/circles-s.png) | circles-s | \&#xe93d; |
 | ![grid-o](Icons/png/grid-o.png) | grid-o | \&#xe93e; | ![grid-s](Icons/png/grid-s.png) | grid-s | \&#xe93f; |
 | ![dialpad-o](Icons/png/dialpad-o.png) | dialpad-o | \&#xe940; | ![dialpad-s](Icons/png/dialpad-s.png) | dialpad-s | \&#xe941; |
+| ![round-table-meeting-o](Icons/png/round-table-meeting-o.png) | round-table-meeting-o | \&#xe942; | ![round-table-meeting-s](Icons/png/round-table-meeting-s.png) | round-table-meeting-s | \&#xe943; |
                                 
 APFont was created using the free version of <b>[IcoMoon](https://icomoon.io)</b> generator. You can use any icon to font generator you like.
